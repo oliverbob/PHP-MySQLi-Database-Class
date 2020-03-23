@@ -29,7 +29,7 @@ MysqliDb -- Simple MySQLi wrapper and object mapper with prepared statements
 
 ## Support Me
 
-This software is developed during my free time and I will be glad if somebody will support me.
+This software is developed during the developer's free time and I will be glad if somebody will support me with this fork.
 
 Everyone's time should be valuable, so please consider donating.
 
